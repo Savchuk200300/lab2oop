@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StudentDataBase>
+	<dorm ID = "1" DORM="Гуртожиток 1">
+		<floor FLOOR="1 поверх">
+			<student ID="1"
+				 ROOM="1"
+				 SURNAME="Савчук"
+				 NAME="Максим"
+				 PHONENUMBER="380903124332">Text1
+			</student>
+			<student ID="2"
+				 ROOM="1"
+				 SURNAME="Фудик"
+				 NAME="Артем"
+				 PHONENUMBER="380132543535">Text2
+			</student>
+			<student ID="3"
+				 ROOM="3"
+				 SURNAME="Дротський"
+				 NAME="Рікардо"
+				 PHONENUMBER="380108832140">Text3
+			</student>
+			<student ID="4"
+				 ROOM="3"
+				 SURNAME="Артемчук"
+				 NAME="Влад"
+				 PHONENUMBER="380148880023">Text4
+			</student>
+			<student ID="5"
+				 ROOM="54"
+				 SURNAME="Орденат"
+				 NAME="Дмитро"
+				 PHONENUMBER="387148880023">Text5
+			</student>
+		</floor>
+	</dorm>
+	<dorm ID = "2" DORM="Гуртожиток 2">
+		<floor FLOOR="4 поверх">
+			<student ID="1"
+				 ROOM="90"
+				 SURNAME="Мамітов"
+				 NAME="Павло"
+				 PHONENUMBER="380108889999">Text1
+			</student>
+			<student ID="2"
+				 ROOM="90"
+				 SURNAME="Север"
+				 NAME="Валерій"
+				 PHONENUMBER="380108888888">Text2
+			</student>
+			<student ID="3"
+				 ROOM="103"
+				 SURNAME="Кучма"
+				 NAME="Максим"
+				 PHONENUMBER="382938881231">Text3
+			</student>
+			<student ID="4"
+				 ROOM="103"
+				 SURNAME="Вернадський"
+				 NAME="Зябл"
+				 PHONENUMBER="380000000000">Text4
+			</student>
+		</floor>
+		<floor FLOOR="9 поверх">
+			<student ID="1"
+				 ROOM="228"
+				 SURNAME="Степанович"
+				 NAME="Степан"
+				 PHONENUMBER="380107771231">Text1
+			</student>
+			<student ID="2"
+				 ROOM="228"
+				 SURNAME="Джозеф"
+				 NAME="Беззос"
+				 PHONENUMBER="380991111231">Text2
+			</student>
+			<student ID="3"
+				 ROOM="228"
+				 SURNAME="Петров"
+				 NAME="Данило"
+				 PHONENUMBER="380108889876">Text3
+			</student>
+			<student ID="4"
+				 ROOM="1984"
+				 SURNAME="Мужик"
+				 NAME="Таня"
+				 PHONENUMBER="380108889877">Text4
+			</student>
+		</floor>
+	</dorm>
+</StudentDataBase>

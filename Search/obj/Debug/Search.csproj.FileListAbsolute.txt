@@ -1,0 +1,73 @@
+C:\Users\Alexandr\Desktop\Proga\HW OOP\3 laba\Search\Search\obj\Debug\Search.csprojAssemblyReference.cache
+C:\Users\Alexandr\Desktop\Proga\HW OOP\3 laba\Search\Search\obj\Debug\Search.Form1.resources
+C:\Users\Alexandr\Desktop\Proga\HW OOP\3 laba\Search\Search\obj\Debug\Search.Properties.Resources.resources
+C:\Users\Alexandr\Desktop\Proga\HW OOP\3 laba\Search\Search\obj\Debug\Search.csproj.GenerateResource.cache
+C:\Users\Alexandr\Desktop\Proga\HW OOP\3 laba\Search\Search\obj\Debug\Search.csproj.CoreCompileInputs.cache
+C:\Users\Alexandr\Desktop\Proga\HW OOP\3 laba\Search\Search\bin\Debug\Search.exe.config
+C:\Users\Alexandr\Desktop\Proga\HW OOP\3 laba\Search\Search\bin\Debug\Search.exe
+C:\Users\Alexandr\Desktop\Proga\HW OOP\3 laba\Search\Search\bin\Debug\Search.pdb
+C:\Users\Alexandr\Desktop\Proga\HW OOP\3 laba\Search\Search\obj\Debug\Search.exe
+C:\Users\Alexandr\Desktop\Proga\HW OOP\3 laba\Search\Search\obj\Debug\Search.pdb
+C:\Users\Alexandr\Desktop\Proga\HWOOP\3 laba\Search\Search\bin\Debug\Search.exe.config
+C:\Users\Alexandr\Desktop\Proga\HWOOP\3 laba\Search\Search\bin\Debug\Search.exe
+C:\Users\Alexandr\Desktop\Proga\HWOOP\3 laba\Search\Search\bin\Debug\Search.pdb
+C:\Users\Alexandr\Desktop\Proga\HWOOP\3 laba\Search\Search\obj\Debug\Search.csprojAssemblyReference.cache
+C:\Users\Alexandr\Desktop\Proga\HWOOP\3 laba\Search\Search\obj\Debug\Search.Form1.resources
+C:\Users\Alexandr\Desktop\Proga\HWOOP\3 laba\Search\Search\obj\Debug\Search.Properties.Resources.resources
+C:\Users\Alexandr\Desktop\Proga\HWOOP\3 laba\Search\Search\obj\Debug\Search.csproj.GenerateResource.cache
+C:\Users\Alexandr\Desktop\Proga\HWOOP\3 laba\Search\Search\obj\Debug\Search.csproj.CoreCompileInputs.cache
+C:\Users\Alexandr\Desktop\Proga\HWOOP\3 laba\Search\Search\obj\Debug\Search.exe
+C:\Users\Alexandr\Desktop\Proga\HWOOP\3 laba\Search\Search\obj\Debug\Search.pdb
+D:\Лаба 3\Search\bin\Debug\Search.exe.config
+D:\Лаба 3\Search\bin\Debug\Search.exe
+D:\Лаба 3\Search\bin\Debug\Search.pdb
+D:\Лаба 3\Search\obj\Debug\Search.csprojAssemblyReference.cache
+D:\Лаба 3\Search\obj\Debug\Search.Form1.resources
+D:\Лаба 3\Search\obj\Debug\Search.Properties.Resources.resources
+D:\Лаба 3\Search\obj\Debug\Search.csproj.GenerateResource.cache
+D:\Лаба 3\Search\obj\Debug\Search.exe
+D:\Лаба 3\Search\obj\Debug\Search.pdb
+C:\Users\andri\source\repos\Лаба 3\Search\bin\Debug\Search.exe.config
+C:\Users\andri\source\repos\Лаба 3\Search\bin\Debug\Search.exe
+C:\Users\andri\source\repos\Лаба 3\Search\bin\Debug\Search.pdb
+C:\Users\andri\source\repos\Лаба 3\Search\obj\Debug\Search.csprojAssemblyReference.cache
+C:\Users\andri\source\repos\Лаба 3\Search\obj\Debug\Search.Form1.resources
+C:\Users\andri\source\repos\Лаба 3\Search\obj\Debug\Search.Properties.Resources.resources
+C:\Users\andri\source\repos\Лаба 3\Search\obj\Debug\Search.csproj.GenerateResource.cache
+C:\Users\andri\source\repos\Лаба 3\Search\obj\Debug\Search.csproj.CoreCompileInputs.cache
+C:\Users\andri\source\repos\Лаба 3\Search\obj\Debug\Search.exe
+C:\Users\andri\source\repos\Лаба 3\Search\obj\Debug\Search.pdb
+C:\Users\savch\Desktop\Лаба 3\Search\bin\Debug\Search.exe.config
+C:\Users\savch\Desktop\Лаба 3\Search\bin\Debug\Search.exe
+C:\Users\savch\Desktop\Лаба 3\Search\bin\Debug\Search.pdb
+C:\Users\savch\Desktop\Лаба 3\Search\obj\Debug\Search.csproj.AssemblyReference.cache
+C:\Users\savch\Desktop\Лаба 3\Search\obj\Debug\Search.Form1.resources
+C:\Users\savch\Desktop\Лаба 3\Search\obj\Debug\Search.Properties.Resources.resources
+C:\Users\savch\Desktop\Лаба 3\Search\obj\Debug\Search.csproj.GenerateResource.cache
+C:\Users\savch\Desktop\Лаба 3\Search\obj\Debug\Search.csproj.CoreCompileInputs.cache
+C:\Users\savch\Desktop\Лаба 3\Search\obj\Debug\Search.exe
+C:\Users\savch\Desktop\Лаба 3\Search\obj\Debug\Search.pdb
+C:\Users\savch\Desktop\Лаба 2\Search\bin\Debug\Search.exe.config
+C:\Users\savch\Desktop\Лаба 2\Search\bin\Debug\Search.exe
+C:\Users\savch\Desktop\Лаба 2\Search\bin\Debug\Search.pdb
+C:\Users\savch\Desktop\Лаба 2\Search\obj\Debug\Search.csproj.AssemblyReference.cache
+C:\Users\savch\Desktop\Лаба 2\Search\obj\Debug\Search.Form1.resources
+C:\Users\savch\Desktop\Лаба 2\Search\obj\Debug\Search.Properties.Resources.resources
+C:\Users\savch\Desktop\Лаба 2\Search\obj\Debug\Search.csproj.GenerateResource.cache
+C:\Users\savch\Desktop\Лаба 2\Search\obj\Debug\Search.csproj.CoreCompileInputs.cache
+C:\Users\savch\Desktop\Лаба 2\Search\obj\Debug\Search.exe
+C:\Users\savch\Desktop\Лаба 2\Search\obj\Debug\Search.pdb
+C:\Users\savch\Desktop\Лаба 2\Search\bin\Debug\ru\Microsoft.TestPlatform.AdapterUtilities.resources.dll
+C:\Users\savch\Desktop\Лаба 2\Search\bin\Debug\ru\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\savch\Desktop\Лаба 2\Search\bin\Debug\ru\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.resources.dll
+C:\Users\savch\Desktop\Лаба 2\Search\bin\Debug\ru\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.resources.dll
+C:\Users\savch\Desktop\Лаба 2\Search\bin\Debug\ru\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\savch\Desktop\Лаба 2\Search\bin\Debug\ru\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\savch\Desktop\Лаба 2\Search\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\savch\Desktop\Лаба 2\Search\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\savch\Desktop\Лаба 2\Search\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\savch\Desktop\Лаба 2\Search\bin\Debug\Microsoft.TestPlatform.AdapterUtilities.dll
+C:\Users\savch\Desktop\Лаба 2\Search\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\savch\Desktop\Лаба 2\Search\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\savch\Desktop\Лаба 2\Search\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\savch\Desktop\Лаба 2\Search\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
